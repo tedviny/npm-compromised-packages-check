@@ -1,5 +1,5 @@
 Suite à l'annonce de la compromission de certaines dépendances de npm `
-Shai-Hulud npm supply chain attack – new compromised packages detected`. Ce petit projet est proposé pour vérifier si vos dépendences incluent dans le fichier package.json font parties de la liste des dépendances vulnérables.
+Shai-Hulud npm supply chain attack – new compromised packages detected`. Ce petit projet est proposé pour vérifier si vos dépendances incluses dans le fichier package.json font partie de la liste des dépendances vulnérables.
 
 # Utilisation
 
